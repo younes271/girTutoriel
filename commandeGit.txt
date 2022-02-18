@@ -1,0 +1,5 @@
+#to show git version 
+git --version 
+
+#to clone a respository 
+git clone https://github.com/younes271/girTutoriel.git
